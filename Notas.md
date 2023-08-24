@@ -23,3 +23,9 @@ https://pypi.org/project/djangorestframework/
 ```python manage.py startapp fbvApp```
 
 =====================================
+
+## Crear Primer Proyecto --> Proyecto_02
+```django-admin startproject cbvSerializer .```
+
+## Add app 'firstApp'
+```python manage.py startapp cbvApp```
