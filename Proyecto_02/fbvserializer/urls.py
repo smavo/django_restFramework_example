@@ -22,4 +22,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     # path('students/',  include('fbvApp.urls'))
     path('students/', views.student_list),
+    path('students/<int:pk>', views.student_detail)
 ]
