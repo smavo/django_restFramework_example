@@ -9,9 +9,17 @@ https://pypi.org/project/djangorestframework/
 ```pip install djangorestframework```
 
 ## Crear Primer Proyecto
-```django-admin startproject firstProject .```**
+```django-admin startproject firstProject .```
 
 ## Add app 'firstApp'
-```python .\manage.py startapp firstApp```
+```python manage.py startapp firstApp```
 
+====================================
 
+## Crear Primer Proyecto --> Proyecto_02
+```django-admin startproject fbvserializer .```
+
+## Add app 'firstApp'
+```python manage.py startapp fbvApp```
+
+=====================================
