@@ -14,6 +14,9 @@ https://pypi.org/project/djangorestframework/
 ## Add app 'firstApp'
 ```python manage.py startapp firstApp```
 
+## Crear superusuario
+```python manage.py createsuperuser```
+
 ====================================
 
 ## Crear Primer Proyecto --> Proyecto_02
