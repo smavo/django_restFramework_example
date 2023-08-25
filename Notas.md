@@ -24,8 +24,16 @@ https://pypi.org/project/djangorestframework/
 
 =====================================
 
-## Crear Primer Proyecto --> Proyecto_02
+## Crear Primer Proyecto --> Proyecto_03
 ```django-admin startproject cbvSerializer .```
 
 ## Add app 'firstApp'
 ```python manage.py startapp cbvApp```
+
+=====================================
+
+## Creando proyecto djangorest
+```django-admin startproject djangorest .```
+
+## Add app 'watchlist_app'
+```python manage.py startapp watchlist_app```
